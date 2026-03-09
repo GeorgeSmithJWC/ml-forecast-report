@@ -1,0 +1,13 @@
+track,model,horizon,mae
+A_Full,Ridge,30d,1.8463
+A_Full,LightGBM,30d,2.1504
+A_Full,XGBoost,30d,2.3091
+B_KeepaOnly,XGBoost,30d,2.9891
+B_KeepaOnly,LightGBM,30d,3.0436
+B_KeepaOnly,Ridge,30d,3.4794
+A_Full,LightGBM,75d,2.2455
+A_Full,Ridge,75d,2.3552
+A_Full,XGBoost,75d,2.5352
+B_KeepaOnly,Ridge,75d,4.3944
+B_KeepaOnly,LightGBM,75d,4.4093
+B_KeepaOnly,XGBoost,75d,4.5616
